@@ -1,2 +1,1 @@
-# opengl-cpp
-opengl cpp
+# sdl c template
