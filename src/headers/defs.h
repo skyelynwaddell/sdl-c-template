@@ -1,7 +1,5 @@
 #define false 0 
-#define FALSE 0
 #define true 1  
-#define TRUE 0
 
 #define WINDOW_WIDTH 1280
 #define WINDOW_HEIGHT 720
